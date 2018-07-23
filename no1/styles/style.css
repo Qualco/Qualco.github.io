@@ -1,0 +1,29 @@
+html{
+	font-size: 13px;
+	font-family: 'Raleway', sans-serif;
+	background-color: #065F69;
+}
+body {
+  width: 600px;
+  margin: 0 auto;
+  background-color: #FF9500;
+  padding: 0 20px 20px 20px;
+  border: 5px solid black;
+}
+h1 {
+  margin: 0;
+  text-align:center;
+  padding: 20px 0;    
+  color: #065F69;
+  text-shadow: 3px 3px 1px black;
+}
+img {
+  display: block;
+  margin: 0 auto;
+}
+
+p,li{
+	font-size: 18px;
+	letter-spacing: 1px;
+	line-height: 2;
+}
